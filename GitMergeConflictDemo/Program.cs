@@ -1,2 +1,2 @@
 ﻿Console.WriteLine("This is a simple dome of what to do when a merge conflict happens.");
-Console.WriteLine("I am now in the BranchOffMain branch");
+Console.WriteLine("I am now in the BranchBranchOffMain branch. (Point also added)");
